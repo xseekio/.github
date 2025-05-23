@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, Wecolme to <a href="https://www.xseek.io/">xSeek</a> Github</h1>
 
 <p align="center">
-  <a href="https://x.com/xseekio"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/oassistantgpt"/></a>
+  <a href="https://x.com/xseekio"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/xseekio"/></a>
 </p>
 
 
